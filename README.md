@@ -6,7 +6,7 @@ Vyzkoušejte si Gulp: [[https://gulpjs.com/](https://gulpjs.com/)].
 ### Instalace
 
 * Nemáte-li, nainstalujte si Node.js: [[https://nodejs.org/en/](https://nodejs.org/en/)]
-* Do adresáře ve kterém vyvíjíte, si naklonujte tento repozitář a nainstalujte závislosti (mocha, chai)
+* Do adresáře ve kterém vyvíjíte, si naklonujte tento repozitář a nainstalujte závislosti
 
 ```bash
 git clone git@github.com:lcech/mc-followup-gulp.git
