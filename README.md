@@ -24,7 +24,7 @@ gulp
 
 ### Zadání
 
-* Upravte Gulp Task pro spojení a minifikaci tak, aby do v7sledku zahrnul pouze soubory `/src/config.js` a `/src/other.js` (bez `/src/custom.js`)
+* Upravte Gulp Task pro spojení a minifikaci tak, aby do výsledku zahrnul pouze soubory `/src/config.js` a `/src/other.js` (bez `/src/custom.js`)
 * Pošlete výsledný soubor `gulpfile.js`
 
 ### Tipy
