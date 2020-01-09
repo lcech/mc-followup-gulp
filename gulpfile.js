@@ -21,5 +21,6 @@ const wipe = () => {
 };
 
 exports.info = series(info);
+exports.wipe = series(wipe);
 exports.build = series(build);
 exports.default = series(wipe, build);
