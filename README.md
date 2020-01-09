@@ -7,11 +7,13 @@ Vyzkoušejte si Gulp: [[https://gulpjs.com/](https://gulpjs.com/)].
 
 * Nemáte-li, nainstalujte si Node.js: [[https://nodejs.org/en/](https://nodejs.org/en/)]
 * Do adresáře ve kterém vyvíjíte, si naklonujte tento repozitář a nainstalujte závislosti
+* Nainstalujte gulp-cli globálně
 
 ```bash
 git clone git@github.com:lcech/mc-followup-gulp.git
 cd mc-followup-gulp
 npm install
+npm install gulp-cli -g
 ```
 
 * Zkuste si pustit Gulp
