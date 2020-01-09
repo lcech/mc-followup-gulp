@@ -1,0 +1,29 @@
+{
+  "name": "mc-followup-gulp",
+  "version": "1.0.0",
+  "description": "Self-study example to try Gulp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcech/mc-followup-gulp.git"
+  },
+  "keywords": [
+    "javascript",
+    "gulp"
+  ],
+  "author": "ja@lukascech.cz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcech/mc-followup-gulp/issues"
+  },
+  "homepage": "https://github.com/lcech/mc-followup-gulp#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^3.0.2"
+  }
+}
